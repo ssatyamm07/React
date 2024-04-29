@@ -1,0 +1,10 @@
+
+body {
+    background-image: url('https://img.freepik.com/free-photo/background-with-plane-blank-space-father-s-day_23-2147615966.jpg?w=900&t=st=1696403111~exp=1696403711~hmac=da7c1f011c1f543e81caf9891b1b503b03be8e32a1df8c853ad70bd06b1f78e5'); /* Replace with the path to your background image */
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+  }
+  
